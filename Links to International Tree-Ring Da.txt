@@ -1,0 +1,224 @@
+Links to International Tree-Ring Data Bank chronologies included in BHI reconstruction by Bregy et al.
+
+Format
+Authors:
+Year:
+Dataset Name:
+URL:
+DOI:
+Notes:
+
+Stahle, D. W. & Therrell, M. D. 
+1997
+Stahle – Shot Beech Ridge – QURU – ITRDB NC014
+https://www.ncei.noaa.gov/access/paleo-search/study/4942
+https://doi.org/10.25921/e6kc-f626
+
+
+Duvick, D. N. 
+1981
+Duvick – Scotts Gap – LITU – ITRDB TN
+https://www.ncei.noaa.gov/access/paleo-search/study/3182
+https://doi.org/10.25921/f97n-jx37
+
+
+Baker, P. J. & Pederson, N.
+1996
+Baker – Bent Creek Experimental Forest – QUSP – ITRDB NC022
+https://www.ncei.noaa.gov/access/paleo-search/study/13818
+https://doi.org/10.25921/45bs-ah27
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
+
+
+Barefoot, A. C. 
+1992b
+Barefoot – Hampton Hills – QUAL – ITRDB NC1
+https://www.ncei.noaa.gov/access/paleo-search/study/2677
+https://doi.org/10.25921/s6rr-hs12
+
+
+Barefoot, A. C.
+1992a
+Barefoot - New Hill Beaver Tree Farm - PIEC - ITRDB NC8
+https://www.ncei.noaa.gov/access/paleo-search/study/2683
+https://doi.org/10.25921/yzxe-r885
+
+
+Cook, E. R.
+1983
+Cook - Kelsey Tract - TSCA - ITRDB NC005
+https://www.ncei.noaa.gov/access/paleo-search/study/2987
+https://doi.org/10.25921/7hwh-aw70
+
+
+Cook, E. R.
+1977
+Cook - Linville Gorge - QUAL - ITRDB NC007
+https://www.ncei.noaa.gov/access/paleo-search/study/2992
+https://doi.org/10.25921/g9bf-fx64
+
+
+Cook, E. R.
+1985
+Cook - Mammoth Cave Recollect - QUAL - ITRDB KY004
+https://www.ncei.noaa.gov/access/paleo-search/study/2995
+https://doi.org/10.25921/a7z6-hw85
+
+
+Copenheaver, C. A.
+2006
+Copenheaver - Stroubles Creek - QUAL - ITRDB VA035
+https://www.ncei.noaa.gov/access/paleo-search/study/18965
+https://doi.org/10.25921/prac-rs89
+Affiliated paper: 107.	Copenheaver, C. A., Belote, R. T. Steele, J. K., Peterson, J. A. & Grinter, L. E. A dendroclimatic assessment of habitat specificity: use of a functional trait to classify white oak. The Journal of the Torrey Botanical Society 140, doi:10.3159/torrey-d-12-00037.1 (2013).
+
+
+Grissino-Mayer, H. D.
+1987
+Grissino-Mayer - Athens - PIEC - ITRDB GA001
+https://www.ncei.noaa.gov/access/paleo-search/study/3425
+https://doi.org/10.25921/y8mq-r616
+
+
+Harley, G. L.
+2005
+Harley - Kissimmee - PIPA - ITRDB FL011
+https://www.ncei.noaa.gov/access/paleo-search/study/36054
+https://doi.org/10.25921/85dt-9p78
+Affiliated paper: 121.	Harley, G. L. et al. Suwannee River flow variability 1550–2005 CE reconstructed from a multispecies tree-ring network. Journal of Hydrology 544, doi:10.1016/j.jhydrol.2016.11.020 (2017).
+Affiliated paper: 122.	Harley, G. L. et al. The Longleaf Tree-Ring Network: reviewing and expanding the utility of Pinus palustris Mill. dendrochronological data. Progress in Physical Geography: Earth and Environment 0, doi:10.1177/03091333221147652 (2023).
+
+
+Pederson, N., Blozan, W., Brice, A., Catron, B., Leland, C., Scheff, J., Malcomb, N., & Tackett, K.
+2009
+Pederson - Frick Creek - TSCA - ITRDB GA014
+https://www.ncei.noaa.gov/access/paleo-search/study/13804
+https://doi.org/10.25921/6aa2-6r07
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
+
+
+Pederson, N., Cook, N., & Hopton, M.
+2003
+Pederson - Lil Scaly Mountain - QUAL - ITRDB NC023
+https://www.ncei.noaa.gov/access/paleo-search/study/13819
+https://doi.org/10.25921/2h04-9f90
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
+
+
+Stahle, D. W.
+1985b
+Stahle - Altamaha River - TADI - ITRDB GA002
+https://www.ncei.noaa.gov/access/paleo-search/study/4808
+https://doi.org/10.25921/0ck4-k085
+
+
+Stahle, D. W.
+1985a
+Stahle - Bayou Deview - TADI - ITRDB AR049
+https://www.ncei.noaa.gov/access/paleo-search/study/4811
+https://doi.org/10.25921/x0vh-qq94
+
+
+Stahle, D.W.; Cleaveland, M.K.; Edmondson, J.R.; Griffin, D.; Howard, I.M.; Robbins, C.; Stahle, D.K.; Wolff, K.
+2017
+Stahle - Black River Update 2 - TADI - ITRDB NC027
+https://www.ncei.noaa.gov/access/paleo-search/study/26896
+https://doi.org/10.25921/52mw-gt66
+Affiliated paper: Stahle, D. W. et al. Longevity, climate sensitivity, and conservation status of wetland trees at Black River, North Carolina. Environmental Research Communications 1, doi:10.1088/2515-7620/ab0c4a (2019).
+
+
+Stahle, D.W.; Cleaveland, M.K.
+1992
+Stahle - Choctawhatchee River - TADI - ITRDB FL001
+https://www.ncei.noaa.gov/access/paleo-search/study/4830
+https://doi.org/10.25921/xz8h-1b76
+
+
+Stahle, D.W.; Sierzchula, S.
+1992
+Stahle - Moody Tract - QULY - ITRDB GA009
+https://www.ncei.noaa.gov/access/paleo-search/study/4901
+https://doi.org/10.25921/q0t4-f134
+
+
+Stahle, D.W.; Cleaveland, M.K.
+1993
+Stahle - O'Leno State Park - QUST - ITRDB FL003
+https://www.ncei.noaa.gov/access/paleo-search/study/4915
+https://doi.org/10.25921/20mg-ss03
+
+
+Stahle. D. W.
+1984
+Stahle - Ocmulgee River - TADI - ITRDB GA004
+https://www.ncei.noaa.gov/access/paleo-search/study/4913
+https://doi.org/10.25921/q039-zs60
+
+
+Stahle, D.W.; Therrell, M.D.; Cleaveland, M.K.
+1992
+Stahle - Pascagoula River - TADI - ITRDB MS002
+https://www.ncei.noaa.gov/access/paleo-search/study/4917
+https://doi.org/10.25921/8m97-kz34
+
+
+Stahle, D. W.
+1983
+Stahle - Pearl River - TADI - ITRDB MS001
+https://www.ncei.noaa.gov/access/paleo-search/study/4919
+https://doi.org/10.25921/yn3f-xe44
+
+
+Stahle, D.W.; Cleaveland, M.K.; Sierzchula, S.
+1994
+Stahle - Suwannee River - QULY - ITRDB FL005
+https://www.ncei.noaa.gov/access/paleo-search/study/4948
+https://doi.org/10.25921/509c-h239
+
+
+Walker, D.M.; Copenheaver, C.A.
+2011
+Walker - Georgia-HWA - TSCA - ITRDB GA023
+https://www.ncei.noaa.gov/access/paleo-search/study/17228
+https://doi.org/10.25921/3y53-b244
+Affiliated paper: Walker, D. M., Copenheaver, C. A. & Zink-Sharp, A. Radial growth changes following hemlock woolly adelgid infestation of eastern hemlock. Annals of Forest Science 71, doi:10.1007/s13595-014-0367-3 (2014).
+
+
+Pederson, N.; Catron, B.; Tackett, K.
+2009
+Pederson - Amicalola - LITU - ITRDB GA010
+https://www.ncei.noaa.gov/access/paleo-search/study/13797
+https://doi.org/10.25921/4r1y-z541
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
+
+
+Pederson, N.; Blozan, W.; Brice, A.; Catron, B.; Leland, C.; Scheff, J.; Malcomb, N.; Tackett, K.
+2009
+Pederson - Chattahoochee National Forest - LITU - ITRDB GA012
+https://www.ncei.noaa.gov/access/paleo-search/study/13800
+https://doi.org/10.25921/xk9q-k783
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
+
+
+Pederson, N.; Blozan, W.; Brice, A.; Catron, B.; Leland, C.; Scheff, J.; Malcomb, N.; Tackett, K.
+2009
+Pederson - Frick Creek - LITU - ITRDB GA011
+https://www.ncei.noaa.gov/access/paleo-search/study/13799
+https://doi.org/10.25921/2nmr-6616
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
+
+
+Baker, P.J.
+1996
+Baker - Bent Creek Experimental Forest - QUAL - ITRDB NC021
+https://www.ncei.noaa.gov/access/paleo-search/study/13817
+https://doi.org/10.25921/6km4-f627
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
+
+
+Knight, T.A.; Pederson, N.
+2002
+Knight - Pine Mountain Combined - QUPR - ITRDB GA022
+https://www.ncei.noaa.gov/access/paleo-search/study/13815
+https://doi.org/10.25921/bnhg-hk12
+Affiliated paper: Pederson, N. et al. A long-term perspective on a modern drought in the American Southeast. Environmental Research Letters 7, doi:10.1088/1748-9326/7/1/014034 (2012).
